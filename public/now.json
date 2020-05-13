@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "alias": "sbecka8111-markdown-editor",
+    "name": "markdown-editor",
+    "routes": [
+        { "handle": "filesystem" },
+        { "src": "/.*", "dest": "/index.html" }
+    ]
+}
