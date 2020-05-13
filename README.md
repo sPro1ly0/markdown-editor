@@ -1,68 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Markdown Editor
 
-## Available Scripts
+**Live app:** https://markdown-editor.sbecka81111.now.sh/
 
-In the project directory, you can run:
+**Link to CodeSandbox:** https://codesandbox.io/s/markdown-editor-by-sabrina-wouim?file=/src/App.js
 
-### `npm start`
+## Summary
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+I participated in my first hackathon with <a href="https://github.com/MintbeanHackathons">Mintbean</a>. We had about 3-4 hours to make our own markdown editors. It was great practice to use React and learn about new libraries such as showdown and ace editor. It was awesome to see everyone's projects and different skills involved to make a simple markdown editor. I originally created my project using codesandbox.io. Overall, it was a fun experience and I can't wait to do more hackathons with Mintbean and create new projects.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<ul>
+  <li>React.js</li>
+  <li><a href="https://github.com/securingsincity/react-ace">react-ace</a></li>,
+  <li><a href="https://github.com/jerolimov/react-showdown">react-showdown</a></li>
+  <li>JavaScript</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>This project was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a>.</li>
+</ul>
